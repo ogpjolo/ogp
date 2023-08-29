@@ -20,7 +20,7 @@ accomplishments:
     agencies improve tech hiring efforts
   - Overhauled OGP's employment letter templates for greater operational
     efficiency and clarity
-quote: ""
+quote: "https://www.linkedin.com/in/joanna-lo-/"
 linkedinId: ""
 
 ---
